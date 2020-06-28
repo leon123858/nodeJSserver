@@ -5,4 +5,4 @@ app.get('/',function(req,res){
 	res.send("你好 express");
 })
 
-app.listen(3000,'127.0.0.1');
+app.listen(8080,'127.0.0.1');
